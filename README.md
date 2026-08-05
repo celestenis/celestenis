@@ -42,23 +42,6 @@ Ingeniera en Sistemas Computacionales enfocada en construir soluciones eficiente
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Ngrok](https://img.shields.io/badge/Ngrok-217346?style=flat-square&logo=Ngrok&logoColor=white)
-
----
-
-### 📌 Proyectos Destacados
-
-- **[Nexus Telecom](https://github.com/tu-usuario/nexus-telecom)**  
-  Plataforma web full-stack para centralizar inventarios y automatizar checklists vehiculares.  
-  `PHP` `JavaScript` `MySQL`
-
-- **[COC' Telas y Tradición - Sistema de Inventario](https://github.com/tu-usuario/inventario-coc-telas)**  
-  Sistema a medida para el control, monitoreo y gestión automatizada de existencias en comercio local.  
-  `C#` `SQL Server` `.NET`
-
-- **[Senior OS](https://github.com/tu-usuario/senior-os)**  
-  Aplicación móvil orientada a la accesibilidad e inclusión digital, facilitando agendas e interacción para adultos mayores.  
-  `Android Studio` `Firebase`
 
 ---
 
