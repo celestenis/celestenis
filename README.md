@@ -1,8 +1,8 @@
 <div align="center">
 
-# ¡Hola! Soy Celeste Nicolás Isidro 👋
+# ¡Hola! Soy Celeste Nicolás Isidro
 
-### 💻 Ingeniera en Sistemas Computacionales
+### Ingeniera en Sistemas Computacionales
 **Desarrollo Web & Análisis de Datos**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celestenicolas/)
@@ -12,7 +12,7 @@
 
 </div>
 
-### 🚀 Sobre mí
+### 😊 Sobre mí
 
 Ingeniera en Sistemas Computacionales enfocada en construir soluciones eficientes, escalables y orientadas a optimizar procesos. Me apasiona transformar datos en información clave para la toma de decisiones estratégicas, así como diseñar y desarrollar aplicaciones web funcionales de alto impacto.
 
